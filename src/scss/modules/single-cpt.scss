@@ -1,0 +1,125 @@
+.post-type-tn .rwmb-settings-no-boxes .rwmb-label {
+  max-width: 240px;
+}
+
+.post-type-tn input[type=text] {
+  min-width: 300px;
+}
+
+/* tn Settings Page */
+
+.tn-extra-tip {
+  display: block;
+  margin-top: 10px;
+}
+
+/* Admin tn Form */
+
+.tn-admin-form .tn-field {
+  margin-bottom: 20px;
+}
+
+.tn-admin-form .tn-field:after {
+  content: '';
+  clear: both;
+  display: block;
+}
+
+.tn-admin-form .tn-label,
+.tn-admin-form .tn-input {
+  float: left;
+  vertical-align: top;
+}
+
+.tn-admin-form .tn-label {
+  width: 22%;
+  font-weight: bold;
+}
+
+.tn-admin-form .tn-input {
+  width: 78%;
+}
+
+/* tn Form field description */
+
+.tn-admin-form .tn-desc {
+  font-style: italic;
+  color: #555;
+  line-height: 1.4em;
+  margin: 4px 0 6px;
+}
+
+/* tn Form Fields */
+
+/* Heading */
+
+.tn-field-heading h3 {
+  border-bottom: 1px solid #eaeaea;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+.tn-field.required-field .tn-label > label:after {
+  content: "*";
+  color: #dc3232;
+  margin-left: 3px;
+}
+
+/* Textarea */
+
+.tn-field-textarea textarea {
+  width: 96%;
+}
+
+/* Checkbox */
+
+.tn-field-checkbox .tn-desc {
+  display: inline;
+}
+
+/* Radio */
+
+.tn-radio-group label {
+  display: block;
+  line-height: 1.4em;
+  margin: 4px 0 10px;
+}
+
+/* Select */
+
+.tn-admin-form select {
+  min-width: 260px;
+}
+
+.tn-admin-form h2:not(.nav-tab-wrapper) {
+  display:none;
+}
+
+.tn-admin-form .tn-error {
+  color: #dc3232;
+}
+
+.tn-admin-form .has-errors input[type="text"],
+.tn-admin-form .has-errors textarea {
+  border-color: #dc3232;
+}
+
+/* tn add shortcode button and popup styling */
+
+#tn-popup-window .mce-container h5 {
+  font-weight: bold;
+  margin-bottom: 12px;
+}
+
+#tn-popup-window .mce-container p {
+  margin-bottom: 15px;
+}
+
+#tn-popup-window .button {
+  text-decoration: none;
+}
+
+#tn-popup-window p {
+  white-space : normal;
+  line-height: 1.3em;
+}

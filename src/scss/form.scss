@@ -1,0 +1,42 @@
+#tn_academy-member-form {
+    .field-container {
+        position: relative;
+        margin-bottom: 20px;
+    }
+
+    .field-msg {
+        display: none;
+        position: absolute;
+        left: 2px;
+        bottom: -1Ωpx;
+        font-size: 9px;
+        text-transform: uppercase;
+        font-weight: 600;
+        letter-spacing: 0.05em;
+
+        &.show {
+            display: block;
+        }
+    }
+
+    .error {
+        color: rgb(144, 19, 19) !important;
+    }
+
+    .success {
+        color: rgb(47, 129, 47);
+    }
+}
+
+.tn-registration {
+    color: #fff !important;
+    width: 100%;
+    max-width: 300px;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 52px;
+    display: inline-block;
+    text-transform: uppercase;
+    text-align: center;
+    background-color: #be0017;
+}

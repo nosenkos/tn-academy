@@ -1,0 +1,709 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TN Academy\n"
+"POT-Creation-Date: 2018-10-12 12:12+0300\n"
+"PO-Revision-Date: 2018-10-12 12:12+0300\n"
+"Last-Translator: \n"
+"Language-Team: Serhii Nosenko\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;esc_html__\n"
+"X-Poedit-SearchPath-0: templates\n"
+"X-Poedit-SearchPath-1: page-templates\n"
+"X-Poedit-SearchPath-2: inc\n"
+
+#: inc/Api/Callbacks/CptCallbacks.php:12
+msgid "Create as many Custom Post Types as you want."
+msgstr "Skapa så många Custom Post Typesr som du vill."
+
+#: inc/Api/Callbacks/ManagerCallbacks.php:48
+msgid ""
+"Manage the Sections and Features of this Plugin by activating the checkboxes "
+"from the following list."
+msgstr ""
+"Hantera sektioner och funktioner i det här pluginprogrammet genom att "
+"aktivera kryssrutorna från följande lista."
+
+#: inc/Api/Callbacks/ManagerCallbacks.php:53
+msgid ""
+"Manage the Sections and Features of this Plugin by fill fields from the "
+"following list."
+msgstr ""
+"Hantera sektionerna och funktionerna i det här plugin-programmet genom att "
+"fylla i fält från följande lista."
+
+#: inc/Api/Callbacks/ManagerCallbacks.php:58
+msgid "Manage the Mail of this Plugin by fill fields from the following list."
+msgstr ""
+"Hantera posten i det här plugin-programmet genom att fylla i fält från "
+"följande lista."
+
+#: inc/Api/Callbacks/ManagerCallbacks.php:79
+msgid "Admin Email"
+msgstr "Admin E-post"
+
+#: inc/Api/Callbacks/ManagerCallbacks.php:95
+msgid "Default"
+msgstr "Standard"
+
+#: inc/Api/Callbacks/ManagerCallbacks.php:100
+msgid "Default leads on Front Page of your site."
+msgstr "Standardledningar på framsidan på din webbplats."
+
+#: inc/Api/Callbacks/ManagerCallbacks.php:118
+msgid "Select Image"
+msgstr "Välj bild"
+
+#: inc/Api/Callbacks/ManagerCallbacks.php:119
+msgid "Image should have resolution 440x94px."
+msgstr "Bilden ska ha en upplösning på 440x94px."
+
+#: inc/Base/Activate.php:18 inc/Base/MemberController.php:186
+#: inc/Base/MemberController.php:277 templates/member-download.php:35
+msgid "Course"
+msgstr "Kurs"
+
+#: inc/Base/Activate.php:19
+msgid "Courses"
+msgstr "Kurser"
+
+#: inc/Base/BaseController.php:39
+msgid "Activate CPT Manager"
+msgstr "Aktivera Inställningar"
+
+#: inc/Base/BaseController.php:40
+msgid "Activate Wysiwyg Button "
+msgstr "Aktivera Wysiwyg-knappen "
+
+#: inc/Base/BaseController.php:41
+msgid "Activate Participant Manager"
+msgstr "Aktivera Deltagare Manager"
+
+#: inc/Base/CustomPostTypeController.php:73
+msgid "Custom Post Types"
+msgstr "Custom Post Types"
+
+#: inc/Base/CustomPostTypeController.php:74 templates/cpt.php:2
+msgid "CPT Manager"
+msgstr "Inställningar"
+
+#: inc/Base/CustomPostTypeController.php:100
+msgid "Custom Post Type Manager"
+msgstr "Custom Post Type Manager"
+
+#: inc/Base/CustomPostTypeController.php:114
+msgid "Custom Post Type ID"
+msgstr "Custom Post Type ID"
+
+#: inc/Base/CustomPostTypeController.php:127 templates/cpt.php:24
+msgid "Singular Name"
+msgstr "Singular Name"
+
+#: inc/Base/CustomPostTypeController.php:140 templates/cpt.php:24
+msgid "Plural Name"
+msgstr "Plural Name"
+
+#: inc/Base/CustomPostTypeController.php:153 templates/cpt.php:24
+msgid "Public"
+msgstr "Offentlig"
+
+#: inc/Base/CustomPostTypeController.php:166 templates/cpt.php:24
+msgid "Archive"
+msgstr "Arkiv"
+
+#: inc/Base/CustomPostTypeController.php:321
+#: inc/Base/MetaBoxesController.php:73
+msgid "Course Leader"
+msgstr "Kursansvarig"
+
+#: inc/Base/CustomPostTypeController.php:322
+#: inc/Base/MetaBoxesController.php:82
+msgid "Price"
+msgstr "Pris"
+
+#: inc/Base/CustomPostTypeController.php:323
+msgid "Start Date"
+msgstr "Start datum"
+
+#: inc/Base/CustomPostTypeController.php:324
+#: inc/Base/MetaBoxesController.php:102
+msgid "Last day of registration"
+msgstr "Efternamn"
+
+#: inc/Base/EventButtonController.php:39 inc/Pages/Dashboard.php:134
+msgid "Course Button"
+msgstr "Kurs knapp"
+
+#: inc/Base/EventButtonController.php:66
+msgid "This field is required."
+msgstr "Detta fält är obligatoriskt."
+
+#: inc/Base/EventButtonController.php:67 inc/Pages/Dashboard.php:147
+msgid "Add Course Button"
+msgstr "Lägg Till Kursknapp"
+
+#: inc/Base/EventButtonController.php:68 inc/Pages/Dashboard.php:160
+msgid "Course Name"
+msgstr "Kursnamn"
+
+#: inc/Base/EventButtonController.php:69
+msgid "Link"
+msgstr "Länk"
+
+#: inc/Base/EventButtonController.php:70 inc/Pages/Dashboard.php:173
+msgid "Course Short Description"
+msgstr "Kortfattad Beskrivning"
+
+#: inc/Base/EventButtonController.php:71
+msgid "Link Text"
+msgstr "Länktext"
+
+#: inc/Base/EventButtonController.php:72
+msgid "No Courses found!"
+msgstr "Inga kurser hittades!"
+
+#: inc/Base/EventButtonController.php:72
+msgid "You need to create course before adding them."
+msgstr "Du måste skapa kurs innan du lägger till dem."
+
+#: inc/Base/EventButtonController.php:72
+msgid "Create new course"
+msgstr "Skapa ny kurs"
+
+#: inc/Base/EventButtonController.php:73 inc/Pages/Dashboard.php:186
+msgid "You may create and manage courses"
+msgstr "Du kan skapa och hantera kurser"
+
+#: inc/Base/EventButtonController.php:73
+msgid "here"
+msgstr "här"
+
+#: inc/Base/MailController.php:93 inc/Pages/Dashboard.php:225
+msgid "Travel News Academy"
+msgstr "Travel News Akademi"
+
+#: inc/Base/MailController.php:146
+msgid "Date: "
+msgstr "Datum: "
+
+#: inc/Base/MailController.php:156
+msgid "Location: "
+msgstr "Plats: "
+
+#: inc/Base/MailController.php:166
+msgid "Course Leader: "
+msgstr "Kursledare: "
+
+#: inc/Base/MailController.php:176
+msgid "Price: "
+msgstr "Pris: "
+
+#: inc/Base/MailController.php:185
+msgid "Last day of registration: "
+msgstr "Sista anmälningsdagen: "
+
+#: inc/Base/MailController.php:194
+msgid "Detailed Description "
+msgstr "Detaljerad Beskrivning "
+
+#: inc/Base/MailController.php:202
+msgid "Check Course's Info"
+msgstr "Kolla Kursens Information"
+
+#: inc/Base/MailController.php:225
+msgid "Address: "
+msgstr "Adress: "
+
+#: inc/Base/MailController.php:234
+msgid "ZIP: "
+msgstr "ZIP: "
+
+#: inc/Base/MailController.php:243
+msgid "City: "
+msgstr "Stad: "
+
+#: inc/Base/MailController.php:252
+msgid "Phone: "
+msgstr "Telefon: "
+
+#: inc/Base/MailController.php:261
+msgid "Email: "
+msgstr "E-post: "
+
+#: inc/Base/MailController.php:270
+msgid "Course: "
+msgstr "Kurs: "
+
+#: inc/Base/MailController.php:279 templates/contact-form.php:56
+msgid "What are your current job description?"
+msgstr "Vad är din nuvarande arbetsbeskrivning?"
+
+#: inc/Base/MailController.php:292 inc/Pages/Dashboard.php:239
+msgid "Travel News Academy, Course"
+msgstr "Travel News Akademi, Kurs"
+
+#: inc/Base/MemberController.php:120 inc/Base/MemberController.php:121
+#: templates/member-download.php:63
+msgid "Download"
+msgstr "Ladda ner"
+
+#: inc/Base/MemberController.php:134
+msgid "Participants"
+msgstr "Kursdeltagare"
+
+#: inc/Base/MemberController.php:135
+msgid "Participant"
+msgstr "Kursdeltagare"
+
+#: inc/Base/MemberController.php:161
+msgid "Member Information"
+msgstr "Medlemsinformation"
+
+#: inc/Base/MemberController.php:192
+msgid "First Name"
+msgstr "Förnamn"
+
+#: inc/Base/MemberController.php:198
+msgid "Last Name"
+msgstr "Efternamn"
+
+#: inc/Base/MemberController.php:204
+msgid "Address"
+msgstr "Adress"
+
+#: inc/Base/MemberController.php:209
+msgid "ZIP"
+msgstr "ZIP"
+
+#: inc/Base/MemberController.php:214
+msgid "City"
+msgstr "Stad"
+
+#: inc/Base/MemberController.php:219
+msgid "Phone"
+msgstr "Telefon"
+
+#: inc/Base/MemberController.php:225
+msgid "Author Email"
+msgstr "Författare Email"
+
+#: inc/Base/MemberController.php:231
+msgid "Short Description"
+msgstr "Kort Beskrivning"
+
+#: inc/Base/MemberController.php:276
+msgid "Email"
+msgstr "E-post"
+
+#: inc/Base/MemberController.php:342
+msgid "All "
+msgstr "Allt"
+
+#: inc/Base/MemberController.php:342
+msgid "All Courses"
+msgstr "Allt Kurser"
+
+#: inc/Base/MetaBoxController.php:144
+msgid "This field is required"
+msgstr "Detta fält är obligatoriskt"
+
+#: inc/Base/MetaBoxController.php:199
+msgid "Unsupported field type"
+msgstr "Fältstyp som inte stöds"
+
+#: inc/Base/MetaBoxesController.php:43
+msgid "Required"
+msgstr "Nödvändig"
+
+#: inc/Base/MetaBoxesController.php:46
+msgid "Title"
+msgstr "Titel"
+
+#: inc/Base/MetaBoxesController.php:47
+msgid "Enter the course's title."
+msgstr "Ange kursens titel."
+
+#: inc/Base/MetaBoxesController.php:55
+msgid "Date"
+msgstr "Datum"
+
+#: inc/Base/MetaBoxesController.php:56
+msgid "Enter the course's date."
+msgstr "Ange kursens datum."
+
+#: inc/Base/MetaBoxesController.php:64
+msgid "Location"
+msgstr "Plats"
+
+#: inc/Base/MetaBoxesController.php:65
+msgid "Enter the course's location."
+msgstr "Ange kursens plats."
+
+#: inc/Base/MetaBoxesController.php:74
+msgid "Enter the course's course Leader."
+msgstr "Gå in på kursens kursledare."
+
+#: inc/Base/MetaBoxesController.php:83
+msgid "Enter the course's course Price."
+msgstr "Ange kursens kurs pris."
+
+#: inc/Base/MetaBoxesController.php:92
+msgid "Optional"
+msgstr "Valfritt"
+
+#: inc/Base/MetaBoxesController.php:93
+msgid ""
+"Configure the form fields. You may disable fields that are not required just "
+"leave them empty."
+msgstr ""
+"Konfigurera formulärfälten. Du kan inaktivera fält som inte behövs bara "
+"lämna dem tomma."
+
+#: inc/Base/MetaBoxesController.php:96
+msgid "Short description"
+msgstr "Kort Beskrivning"
+
+#: inc/Base/MetaBoxesController.php:97
+msgid "The course's short description."
+msgstr "Kort Beskrivning."
+
+#: inc/Base/MetaBoxesController.php:103
+msgid "Enter the course's Last day of registration."
+msgstr "Ange kursens sista registreringsdag."
+
+#: inc/Base/MetaBoxesController.php:108 page-templates/single-cpt.php:90
+msgid "Detailed Description"
+msgstr "Detaljerad Beskrivning"
+
+#: inc/Base/MetaBoxesController.php:109
+msgid "Enter the course's Detailed Description."
+msgstr "Ange kursens Detaljerade Beskrivning."
+
+#: inc/Base/MetaBoxesController.php:118 inc/Base/SettingsLinks.php:19
+msgid "Settings"
+msgstr "Inställningar"
+
+#: inc/Base/MetaBoxesController.php:122 templates/contact-form.php:6
+msgid "Registration Form"
+msgstr "Anmälningsblankett"
+
+#: inc/Base/MetaBoxesController.php:123
+msgid "Enable Registration Form?"
+msgstr "Aktivera registreringsformulär?"
+
+#: inc/Base/MetaBoxesController.php:133
+msgid "Course Settings"
+msgstr "Kursinställningar"
+
+#: inc/Base/TemplateController.php:23
+msgid "TN Academy Landing Page"
+msgstr "TN Academy Landningssida"
+
+#: inc/Pages/Dashboard.php:36
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: inc/Pages/Dashboard.php:43 templates/admin.php:5
+msgid "TN Academy Plugin"
+msgstr "TN Academy Tillägg"
+
+#: inc/Pages/Dashboard.php:44
+msgid "TN Academy"
+msgstr "TN Academy"
+
+#: inc/Pages/Dashboard.php:82
+msgid "Settings Manager"
+msgstr "Inställningshanteraren"
+
+#: inc/Pages/Dashboard.php:88
+msgid "Button Manager"
+msgstr "Knapphanteraren"
+
+#: inc/Pages/Dashboard.php:94
+msgid "Mail Manager"
+msgstr "Mail Manager"
+
+#: inc/Pages/Dashboard.php:126
+msgid "Wysiwyg Button Name"
+msgstr "Wysiwyg knappen namn"
+
+#: inc/Pages/Dashboard.php:139
+msgid "Button Title"
+msgstr "Knapptitel"
+
+#: inc/Pages/Dashboard.php:152
+msgid "Button Name Field"
+msgstr "Knappens namnfält"
+
+#: inc/Pages/Dashboard.php:165
+msgid "Button Short Description Field"
+msgstr "Knapp Kort beskrivning Fält"
+
+#: inc/Pages/Dashboard.php:178
+msgid "Text under Link"
+msgstr "Text under länk"
+
+#: inc/Pages/Dashboard.php:193
+msgid "Include Course data in Email?"
+msgstr "Inkludera kursdata i e-post?"
+
+#: inc/Pages/Dashboard.php:205
+msgid "Include Participant data in Email?"
+msgstr "Inkludera deltagardata i e-post?"
+
+#: inc/Pages/Dashboard.php:217
+msgid "From:"
+msgstr "Från:"
+
+#: inc/Pages/Dashboard.php:231
+msgid "Subject:"
+msgstr "Ämne:"
+
+#: inc/Pages/Dashboard.php:244
+msgid "Logo Link on Main Page:"
+msgstr "Loagotyplänk på huvudsidan:"
+
+#: inc/Pages/Dashboard.php:257
+msgid "Email Logo:"
+msgstr "Email Logo:"
+
+#: inc/Pages/Dashboard.php:269
+msgid "Email Introductory Text :"
+msgstr "E-post Inledande Text:"
+
+#: page-templates/single-cpt.php:45
+msgid "Date:"
+msgstr "Datum:"
+
+#: page-templates/single-cpt.php:54
+msgid "Location:"
+msgstr "Plats:"
+
+#: page-templates/single-cpt.php:63
+msgid "Course Leader:"
+msgstr "Kursledare:"
+
+#: page-templates/single-cpt.php:72
+msgid "Price:"
+msgstr "Pris:"
+
+#: page-templates/single-cpt.php:81
+msgid "Last day of registration:"
+msgstr "Sista anmälningsdagen:"
+
+#: page-templates/single-cpt.php:99
+msgid "Registration"
+msgstr "Registrering"
+
+#: templates/admin.php:9
+msgid "Manage Settings"
+msgstr "Hantera Inställningar"
+
+#: templates/admin.php:13
+msgid "Wysiwyg Button Settings"
+msgstr "Wysiwyg knapp inställningar"
+
+#: templates/admin.php:18
+msgid "Mail Settings"
+msgstr "Mailinställningar"
+
+#: templates/contact-form.php:16
+msgid "Your First Name"
+msgstr "Ditt förnamn"
+
+#: templates/contact-form.php:18
+msgid "Your First Name is Required"
+msgstr "Ditt förnamn är obligatoriskt"
+
+#: templates/contact-form.php:22
+msgid "Your Last Name"
+msgstr "Ditt efternamn"
+
+#: templates/contact-form.php:24
+msgid "Your Last Name is Required"
+msgstr "Ditt efternamn är obligatoriskt"
+
+#: templates/contact-form.php:28
+msgid "Your Address"
+msgstr "Din adress"
+
+#: templates/contact-form.php:30
+msgid "Your Address is Required"
+msgstr "Din adress är obligatorisk"
+
+#: templates/contact-form.php:34
+msgid "Your ZIP Code"
+msgstr "Ditt postnummer"
+
+#: templates/contact-form.php:35
+msgid "Your ZIP Code is Required"
+msgstr "Din postnummer är obligatorisk"
+
+#: templates/contact-form.php:39
+msgid "Your City"
+msgstr "Din stad"
+
+#: templates/contact-form.php:40
+msgid "Your City is Required"
+msgstr "Din stad är obligatorisk"
+
+#: templates/contact-form.php:44
+msgid "Your Email"
+msgstr "Din email"
+
+#: templates/contact-form.php:46
+msgid "The Email address is not valid"
+msgstr "E-postadressen är inte giltig"
+
+#: templates/contact-form.php:50
+msgid "Your Phone"
+msgstr "Din telefon"
+
+#: templates/contact-form.php:51
+msgid "Your Phone Number is Required"
+msgstr "Ditt telefonnummer är obligatoriskt"
+
+#: templates/contact-form.php:57
+msgid ""
+"A Current Job Description is\n"
+"                            Required"
+msgstr ""
+"En aktuell arbetsbeskrivning är\n"
+"                            Nödvändig"
+
+#: templates/contact-form.php:64
+msgid "Submit"
+msgstr "Lämna"
+
+#: templates/contact-form.php:66
+msgid "Submission in process, please wait"
+msgstr "Inlämning pågår, vänligen vänta"
+
+#: templates/contact-form.php:67
+msgid "Message Successfully submitted, thank you!"
+msgstr "Meddelande Framlagt, tack!"
+
+#: templates/contact-form.php:69
+msgid ""
+"There was a problem with the Contact Form, please\n"
+"                            try again!"
+msgstr ""
+"Det var ett problem med kontaktformuläret, tack\n"
+"                            försök igen!"
+
+#: templates/contact-form.php:80
+msgid "Thank you for your application!"
+msgstr "Tack för din anmälan!"
+
+#: templates/cpt.php:7
+msgid "Your Custom Post Types"
+msgstr "Dina Custom Post Types"
+
+#: templates/cpt.php:10 templates/cpt.php:34
+msgid "Edit"
+msgstr "Redigera"
+
+#: templates/cpt.php:10
+msgid "Add"
+msgstr "Tillägga"
+
+#: templates/cpt.php:10
+msgid "Custom Post Type"
+msgstr "Custom Post Type"
+
+#: templates/cpt.php:13
+msgid "Export"
+msgstr "Export"
+
+#: templates/cpt.php:19
+msgid "Manage Your Custom Post Types"
+msgstr "Hantera dina Custom Post Types"
+
+#: templates/cpt.php:24
+msgid "ID"
+msgstr "ID"
+
+#: templates/cpt.php:24
+msgid "Actions"
+msgstr "Handlingar"
+
+#: templates/cpt.php:27
+msgid "TRUE"
+msgstr "SANN"
+
+#: templates/cpt.php:28
+msgid "FALSE"
+msgstr "FALSK"
+
+#: templates/cpt.php:40
+msgid "Delete"
+msgstr "Radera"
+
+#: templates/cpt.php:41
+msgid ""
+"Are you sure you want to delete this Custom Post Type? The data associated "
+"with it will not be deleted."
+msgstr ""
+"Är du säker på att du vill radera den här anpassade posttypen? De data som "
+"är associerade med den kommer inte att raderas."
+
+#: templates/cpt.php:62
+msgid "Export Your Custom Post Types"
+msgstr "Export Your Custom Post Types"
+
+#: templates/member-download.php:28
+msgid "Download Report"
+msgstr "Hämta rapport"
+
+#: templates/member-download.php:29
+msgid "Export Registered People on "
+msgstr "Exportera registrerade personer på "
+
+#: templates/member-download.php:29
+msgid "Export Registered People on Course"
+msgstr "Exportera registrerade personer på kursen"
+
+#: templates/member-download.php:37
+msgid "All"
+msgstr "Allt"
+
+#: templates/member-download.php:52
+msgid ""
+"Donwload\n"
+"        Format"
+msgstr ""
+"Hämta\n"
+"        Format"
+
+#: templates/member-download.php:55
+msgid ""
+"Donwload\n"
+"        CSV"
+msgstr ""
+"Hämta\n"
+"        CSV"
+
+#: templates/member-download.php:57
+msgid ""
+"Donwload\n"
+"        Excel"
+msgstr ""
+"Hämta\n"
+"        Excel"
+
+#~ msgid "Members"
+#~ msgstr "Medlemmar"
+
+#~ msgid "Member"
+#~ msgstr "Medlem"
+
+#~ msgid "Message"
+#~ msgstr "Meddelande"
+
+#~ msgid "Donwload"
+#~ msgstr "Ladda ner"
